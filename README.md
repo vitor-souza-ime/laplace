@@ -97,7 +97,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ```
 
----
 
-Se desejar, posso gerar o arquivo `README.md` ou incluir o gráfico gerado automaticamente como imagem no repositório. Deseja incluir isso também?
-```
